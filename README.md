@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello everyone 🖐
 
-<!--
-**Vedrandj/Vedrandj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vedran and I am a Fullstack Developer. I have recently finished my bootcamp at Masterschool and now I am searching interesting Projects to work on.
 
-Here are some ideas to get you started:
+My skills: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:black_circle:  HTML
+:black_circle:  CSS  
+:black_circle:  JS
+:black_circle:  React
+:black_circle:  NEXT.JS
+:black_circle:  Express
+:black_circle:  MongoDB
+:black_circle:  NODE.JS
+:black_circle:  Firebase
