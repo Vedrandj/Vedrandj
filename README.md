@@ -5,11 +5,19 @@ My name is Vedran and I am a Fullstack Developer. I have recently finished my bo
 My skills: 
 
 :black_circle:  HTML
+
 :black_circle:  CSS  
+
 :black_circle:  JS
+
 :black_circle:  React
+
 :black_circle:  NEXT.JS
+
 :black_circle:  Express
+
 :black_circle:  MongoDB
+
 :black_circle:  NODE.JS
+
 :black_circle:  Firebase
